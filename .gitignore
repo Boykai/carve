@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Movielens 25M Dataset Download
+ml-25m/
